@@ -21,10 +21,6 @@
 - Edit profile pic/profile name
 - Change profile password
 
-## Working Demo 👇
-
-https://user-images.githubusercontent.com/66935206/184427042-8fef5d36-73b0-4be8-9645-9a349436b6ba.mp4
-
 ## Cool Features 😎
 
 - All frequently used [pure functions](https://www.geeksforgeeks.org/pure-functions-in-javascript/#:~:text=A%20Pure%20Function%20is%20a,depends%20on%20its%20input%20arguments.) are [memoized](https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/) to improve app performance.
@@ -134,10 +130,6 @@ npm run build
 ```
 
 - Finally, deploy it using [Render.com](https://render.com/). Don't forget to add all the above mentioned environment variables (both backend and frontend) while deploying.
-
-## License
-
-[MIT](LICENSE) © Abhishek Sawant
 
 ---
 
