@@ -21,12 +21,6 @@
 - Edit profile pic/profile name
 - Change profile password
 
-<div align="center">
-
-### Deployed to Render.com 👉 <https://chat-zoned-gl2x.onrender.com> 🚀
-
-</div>
-
 ## Working Demo 👇
 
 https://user-images.githubusercontent.com/66935206/184427042-8fef5d36-73b0-4be8-9645-9a349436b6ba.mp4
@@ -82,9 +76,6 @@ https://user-images.githubusercontent.com/66935206/184427042-8fef5d36-73b0-4be8-
 
 ## Steps to Run Project Locally 💻
 
-```bash
-#Clone this repo to your local machine
-git clone https://github.com/Abhishek-Sawant-98/Chat-Zoned.git
 
 # Go to project root folder
 cd Chat-Zoned
